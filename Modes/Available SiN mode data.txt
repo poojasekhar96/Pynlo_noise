@@ -1,0 +1,61 @@
+Available SiN refractive indices:
+
+1) modes_2021-03-08_16-01-40.txt
+wavelengths: 400nm to 2500nm
+widths: 1000nm to 4000 nm 
+thckness: 650nm to 750nm
+
+2) modes_2020-06_03-21-10-17.txt
+wavelengths: 400nm to 4500nm
+widths: 495nm to 3500 nm 
+thckness: 760nm to 840nm
+
+3) modes_2020-06_03-21-10-17.txt
+wavelengths: 400nm to 4500nm
+widths: 495nm to 3500 nm 
+thckness: 760nm to 840nm 
+
+4) modes_2019-11_27-20-35-09.txt
+wavelengths: 400nm to 2500nm
+widths: 405nm to 1000 nm 
+thckness: 760nm to 840nm 
+
+5) modes_2019-11_27-08-49-35.txt
+wavelengths: 500nm to 2000nm
+widths: 2000nm to 3000 nm 
+thckness: 760nm to 840nm 
+
+6) modes_2019-11_21-21-46-16.txt, modes_2019-11_21-17-33-14.txt (better match to expt), modes_2019-11_21-17-13-05.txt
+wavelengths: 500nm to 2000nm
+widths: 505nm to 2000 nm 
+thckness: 760nm to 840nm 
+
+7) modes_2022-02-15_20-45-47 (tantalum with air cladding & silica substrate with Z transpose)
+wavelengths: 500nm to 2500nm
+widths: 505nm to 2000 nm 
+thckness: 800 nm 
+
+8) modes_2022-02-16_11-33-11 (tantalum with silica cladding with Z transpose)
+wavelengths: 500nm to 2500nm
+widths: 505nm to 2805 nm 
+thckness: 700nm to 800 nm 
+
+9)modes_2022-02-18_13-31-17 (tantalum with silica cladding with Z transpose), 1200nm
+wavelengths: 500nm to 2500nm in 100 steps instead of 200
+widths: 505nm to 2805 nm 
+thckness: 700nm to 800 nm 
+
+10) modes_2022-02-20_13-25-28 (tantalum with air cladding & silica substrate with Z transpose), 2200nm 
+wavelengths: 500nm to 2500nm in 100 steps instead of 200
+widths: 505nm to 2805 nm 
+thckness: 700nm to 800 nm 
+
+11) modes_2022-02-23_13-14-48.txt (tantalum with silica clad?)
+wavelengths: 500nm to 2500nm in 100 steps instead of 200
+widths: 505nm to 905 nm 
+thckness: 750 nm
+
+12) modes_2023-04-02_21-27-37.txt (tantala/SiN ?)
+wavelengths: 400nm to 2500nm in 170 steps
+widths: 800 nm 
+thckness: 2000 nm
